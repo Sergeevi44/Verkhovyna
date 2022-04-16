@@ -1,0 +1,2 @@
+# Verkhovyna
+Kruba team project
